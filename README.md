@@ -6,4 +6,4 @@ port:8017,//服务器端口
 root:'F://floruit/cxy-client/build',//寻找设置拦截文件的根目录
 local:['lib_bundle.js','entry.js','style.css','appStyle.css']//将要拦截的文件
 }`
-##基于实际项目定制开发版本，后期慢慢优化，使其能适应更多场景
+##基于实际项目定制开发版本，后期慢慢优化，使其能适应更多场景.
